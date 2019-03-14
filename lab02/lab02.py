@@ -81,9 +81,3 @@ a=(1/D)*sum(y*(x-x_srednie) for x,y in list_2)
 print(b)
 print(a)
 
-print('%.3f %d'%(1/3,2))
-print('{1} {0:.3f}'.format(1/3,2))
-# a=3
-# b=7
-# f'{a}{b}'
-print('{} {}'.format(5,2))
